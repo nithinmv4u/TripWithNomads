@@ -1,0 +1,1 @@
+  An online travel agency (OTA) website where you plan affordable picnics or trips with local taxi services with efficient management of time. This provides tourists best experience on each sites with sufficient time allocated. It is build using Django, React, PostgresSQL, MongoDB, Python, HTML, Tailwind CSS etc.
